@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for my personal portfolio website. The website is designed to showcase my skills, qualifications, services, and selected works.
+This repository contains the source code for my personal portfolio website. The website is designed to showcase my skills, qualifications, expertise, and project works.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ This repository contains the source code for my personal portfolio website. The 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/abhi354-beep/portfolio.git
+   git clone https://github.com/AbhilashGunukula/portfolio.git
 
 ## Customization
 Feel free to customize the content, styling, and images to make the portfolio your own. Update the styles.css file for styling adjustments.
@@ -43,8 +43,8 @@ Feel free to customize the content, styling, and images to make the portfolio yo
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Author
-Abhilash reddy Gunukulq
+Abhilash reddy Gunukula
 
 ## Acknowledgments
-Special thanks to GreatStack youtube channel for guiding throughout the portfolio project creation
+Special thanks to GreatStack(https://www.youtube.com/watch?v=0YFrGy_mzjY&t=261s) youtube channel for guiding throughout the portfolio project creation.
 Special thanks to Font Awesome for providing the icons used in this project.
